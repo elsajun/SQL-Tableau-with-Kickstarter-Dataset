@@ -1,11 +1,4 @@
-/*
-See if you can manipulate the table using SQL so that it shows 
-the number of projects per category, 
-the average goal amount per category, 
-the average amount pledged per category, 
-the percentage of projects that met their goal by category, 
-and the average time from launch to deadline by category.
-*/
+
 
 -- 1. the number of projects per category
 SELECT category, COUNT(category)
