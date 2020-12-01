@@ -1,4 +1,3 @@
--- 5 problems
 
 -- 1. the number of projects per category
 SELECT category, COUNT(category)
